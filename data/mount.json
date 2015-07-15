@@ -1,0 +1,18 @@
+{
+    "user": {
+        "all": {
+            "\/$user\/files\/oc-remote": {
+                "class": "\\OC\\Files\\Storage\\OwnCloud",
+                "options": {
+                    "host": "http:\/\/droidcloud-acosf-1.c9.io\/",
+                    "user": "guest",
+                    "password": "",
+                    "root": "Apps",
+                    "secure": "true",
+                    "password_encrypted": "ZjU0MTI5NTgyNmJmYzZmMxSpfShhjonCO6t08rX9bmc="
+                },
+                "priority": 100
+            }
+        }
+    }
+}
